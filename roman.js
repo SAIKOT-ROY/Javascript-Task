@@ -23,5 +23,5 @@ function romanNumber(romanInt) {
 console.log(romanNumber("IX"));
 console.log(romanNumber("XXI")); 
 console.log(romanNumber("IV"));   
-console.log(romanNumber("XLII"));
+console.log(romanNumber("MCM"));
 console.log(romanNumber("MCMXCIV")); 
